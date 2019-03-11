@@ -1,4 +1,4 @@
-# Dev Landing Page
+# Diana Paga
 
 Minimal landing page for developers.
 
